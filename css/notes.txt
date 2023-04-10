@@ -1,0 +1,16 @@
+Web Pages  
+
+1 ---> HTML        ----> Page Body 
+2 ---> Css         ----> Page Design  
+3 ---> Javascript  ----> Page Scripting 
+
+* Css
+
+1 ---> Internal CSS   ----> Page File create tag <style></style>
+2 ---> External Css   ----> Create style.css  link Css File <link rel="stylesheet" href="./style.css">
+3 ---> Inline CSS     ----> <p style=" color:"red" "> Hello </p>
+
+How To Access a Particular Tag Division
+
+1. class ----> .className{}
+2. id   ----> #idName{}
