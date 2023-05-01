@@ -14,3 +14,12 @@
 body{
     background-color: red;   
 }
+.links{
+    display: flex;
+    float: right;
+    margin-top: -50px;
+}
+.items a{
+    padding: 10px;
+    text-decoration: none;
+}
