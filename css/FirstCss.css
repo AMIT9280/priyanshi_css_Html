@@ -12,7 +12,7 @@
     margin: 10px 0px 10px 20px;
 }
 body{
-    background-color: red;   
+     
 }
 .links{
     display: flex;
@@ -22,4 +22,15 @@ body{
 .items a{
     padding: 10px;
     text-decoration: none;
+    color: white;
+}
+.items a:hover{
+    color: orangered;
+}
+
+.items a i{
+    color: orangered;
+}
+.items i{
+    color: white;
 }
